@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toast_bg">#dddfe0</color>
+
+    <!--日间模式-->
+    <color name="background_color">@android:color/white</color>
+    <color name="setting_red_background_color">@android:color/holo_red_light</color>
+    <color name="text_color">@android:color/darker_gray</color>
+    <!--夜间模式-->
+    <color name="background_color_dark">@android:color/background_dark</color>
+    <color name="setting_red_background_color_dark">#222</color>
+    <color name="text_color_dark">#ddd</color>
+</resources>
